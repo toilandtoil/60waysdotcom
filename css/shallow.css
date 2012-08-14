@@ -1,0 +1,33 @@
+.slideImage {
+}
+
+.slideImage img {
+	width: 160%;
+	text-align:center;
+}
+/* notice margin and % tweaks for this smaller layout.*/
+#slider1{
+	height: 100%;
+	width: 65%;
+	font-size:1em;
+	float:left;
+	overflow: hidden;
+	margin-right:1.5%;
+}
+#slider2{
+	height: 48.5%;
+	width: 32%;
+	overflow:hidden;
+	font-size:0.75em;
+	float: right;
+	margin-top: 2%;
+	
+}
+#slider3{
+	height: 48.5%;
+	width: 32%;
+	overflow:hidden;
+	font-size:0.75em;
+	float:right;
+	
+}

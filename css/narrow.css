@@ -1,0 +1,27 @@
+
+.slideImage img{
+	width:160%;
+}
+
+#slider1{
+	height: 50%;
+	width: 100%;
+	overflow:hidden;
+	font-size:1em;
+}
+#slider2{
+	height: 23%;
+	width: 100%;
+	overflow:hidden;
+	font-size:0.75em;
+	margin-top:2%;
+
+}
+#slider3{
+	height: 23%;
+	width: 100%;
+	overflow:hidden;
+	font-size:0.75em;
+	margin-top:2%;
+
+}

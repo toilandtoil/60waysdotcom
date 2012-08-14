@@ -1,0 +1,5 @@
+# this will prevent opening the db directory in a browser
+
+deny from all
+
+# Will return a 403 error
