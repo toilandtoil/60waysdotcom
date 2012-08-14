@@ -27,6 +27,7 @@
     })();
   
   </script>
+        <script>//some script here. Just testing.</script>
 		<script src="js/jquery.js" type="text/javascript"></script>
 		<script src="js/jquery.lazyload.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollstop.js" type="text/javascript"></script>
@@ -160,5 +161,4 @@
 		}
 		//  reference : http://blog.stevensanderson.com/2011/10/05/full-height-app-layouts-a-css-trick-to-make-it-easier/
 	</script>
-	</body>
 </html>
