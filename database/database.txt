@@ -1,7 +1,7 @@
-﻿Danny Hatt									| An homagé to Andy Capp					|http://60ways.com/swipey/60ways.php	| Danny_Hatt.jpg								
-Luna moth									| A comic panel about a luna moth			|http://60ways.com/swipey/60ways.php	| Buckley.jpg								
-Facebook									| Facebook certainly is dumb				|http://60ways.com/swipey/60ways.php	|facebook.jpg								 
-Lettering sketch							| Some hand-drawn lettering examples		|http://60ways.com/swipey/60ways.php	|finis.jpg						
-Stupid Title								|											|http://60ways.com/swipey/60ways.php	|img1.jpg
-Another Stupid Title						|											|http://60ways.com/swipey/60ways.php	|img2.jpg
-But this is a smart title.					|											|http://60ways.com/swipey/60ways.php	|img3.jpg
+﻿Danny Hatt									| An homagé to Andy Capp					|http://60ways.com/                     | Danny_Hatt.jpg
+Luna moth									| A comic panel about a luna moth			|http://60ways.com/                     | Buckley.jpg
+Facebook									| Facebook certainly is dumb				|http://60ways.com/                     |facebook.jpg
+Lettering sketch							| Some hand-drawn lettering examples		|http://60ways.com/                     |finis.jpg
+Stupid Title								|											|http://60ways.com/                     |img1.jpg
+Another Stupid Title						|											|http://60ways.com/                     |img2.jpg
+But this is a smart title.					|											|http://60ways.com/                     |img3.jpg
