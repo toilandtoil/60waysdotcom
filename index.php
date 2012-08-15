@@ -40,6 +40,8 @@
     <link rel="stylesheet" href="./css/large.css" media="screen and (min-width: 1151px)">
 </head>
 <body>
+<?php include 'php/header.php'; ?>
+
 <?php include 'php/60ways_book_slideshow.php'; ?>
 
 <div class="wrapper">
