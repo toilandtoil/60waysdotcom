@@ -72,6 +72,7 @@ a:hover, a:active {
 }
 
 .header {
+    display:none;
     height: 50px;
     width: 100%;
 }
@@ -156,12 +157,15 @@ a:hover, a:active {
 }
 
 #prev {
+    display:none;
     float: left;
     padding: 10px;
     font-size: 1.25em;
 }
 
 #next {
+    display:none;
+
     float: right;
     padding: 10px;
     font-size: 1.25em;
@@ -169,7 +173,7 @@ a:hover, a:active {
 
 #copyright {
     padding: 5px;
-    font-size: .75em;
+    font-size: 50%;
     line-height: 2em;
 }
 
@@ -177,3 +181,20 @@ a:hover, a:active {
     text-align: center;
 }
 
+#prev.big {
+    display:inline;
+    position: absolute;
+    z-index: 100;
+    left:1%;
+    top:45%;
+    padding:0;
+}
+#next.big {
+    display:inline;
+    position: absolute;
+    z-index: 100;
+    right:1%;
+    top:45%;
+    padding:0;
+
+}

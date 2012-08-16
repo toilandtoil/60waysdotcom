@@ -12,23 +12,6 @@
     </script>
     <script src="js/jquery.js" type="text/javascript"></script>
     <script src="js/jquery.lazyload.js" type="text/javascript"></script>
-    <!--<script src="js/jquery.scrollstop.js" type="text/javascript"></script>-->
-    <!--  Asynchronous google analytics; this is the official snippet. Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
-    <script>
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-3340666-2']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script> -->
-
     <script src='js/swipe.js' type="text/javascript"></script>
     <script src='js/google_analytics.js' type="text/javascript"></script>
     <link rel="stylesheet" href="./css/base.css" type="text/css" media="all">
@@ -43,6 +26,8 @@
 <?php include 'php/header.php'; ?>
 
 <?php include 'php/60ways_book_slideshow.php'; ?>
+<a href="#" id="prev" class="big" onClick="slider60ways.prev();return false;"> < </a>
+<a href="#" id="next" class="big" onClick="slider60ways.next();return false;"> > </a>
 
 <div class="wrapper">
     <div id="slider60ways">
@@ -55,19 +40,10 @@
 
 <?php include 'php/footer.php'; ?>
 </body>
-<script type="text/javascript">
-    //http://stackoverflow.com/questions/2517408/how-can-i-implement-lazy-loading-on-a-page-with-500-images
-    //https://docs.google.com/spreadsheet/ccc?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE#gid=2
-    //http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-an-infinite-scroll-web-gallery/
-    //http://stackoverflow.com/questions/6173382/cant-able-to-get-the-properties-of-touchstart-event
-    //http://stackoverflow.com/questions/10281210/jquery-update-image-src-on-hover
-    //http://stackoverflow.com/questions/652763/jquery-object-to-string
-    //http://www.neowin.net/forum/topic/696738-passing-a-variable-to-a-jquery-selector/
-</script>
+
 <script type="text/javascript">
     function lazylazy() {
         $("img.lazy").lazyload({
-            effect:"fadeIn",
             threshold:2000
         });
     }
