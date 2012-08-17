@@ -211,10 +211,5 @@
         "right-of-fold"  : function(a) { return $.rightoffold(a, {threshold : 0, container: window}); },
         "left-of-fold"   : function(a) { return !$.rightoffold(a, {threshold : 0, container: window}); }
     });
-    
-    $.fn.lazyload.alertMe = function() {
-    	alert("it worked!!!!!!!! Because Jav helped!");
-    }
-
 
 })(jQuery, window);
