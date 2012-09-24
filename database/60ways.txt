@@ -1,13 +1,13 @@
-﻿| nolazy | http://60ways.com/	| 60waysCov.jpg | 60waysCov.jpg
-| nolazy 	| http://60ways.com/		| 60ways.jpg 	| 60ways.jpg
-| nolazy 	| http://60ways.com/		| 60ways2.jpg 	| 60ways2.jpg
-| nolazy 	| http://60ways.com/		| 60ways3.jpg 	| 60ways3.jpg
-| nolazy 	| http://60ways.com/		| 60ways4.jpg 	| 60ways4.jpg
-| nolazy 	| http://60ways.com/		| 60ways5.jpg 	| 60ways5.jpg
-| nolazy 	| http://60ways.com/		| 60ways6.jpg 	| 60ways6.jpg
-| nolazy 	| http://60ways.com/		| 60ways7.jpg 	| 60ways7.jpg
-| nolazy 	| http://60ways.com/		| 60ways8.jpg 	| 60ways8.jpg
-| nolazy 	| http://60ways.com/		| 60ways9.jpg 	| 60ways9.jpg
+﻿﻿| nolazy | http://60ways.com/	|/60ways/60waysCov.jpg | 60waysCov.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways.jpg 	| 60ways.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways2.jpg 	| 60ways2.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways3.jpg 	| 60ways3.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways4.jpg	| 60ways4.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways5.jpg	| 60ways5.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways6.jpg	| 60ways6.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways7.jpg 	| 60ways7.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways8.jpg 	| 60ways8.jpg
+| nolazy 	| http://60ways.com/		| /60ways/60ways9.jpg	| 60ways9.jpg
 | lazy 		| http://60ways.com/		| ajax-loader.gif 		| 60ways10.jpg
 | lazy 		| http://60ways.com/		| ajax-loader.gif 		| 60ways11.jpg
 | lazy 		| http://60ways.com/		| ajax-loader.gif 		| 60ways12.jpg
