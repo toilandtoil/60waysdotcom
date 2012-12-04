@@ -65,7 +65,7 @@ a, a:link, a:visited {
     text-decoration: none;
 }
 
-.header {
+.controls {
     display:none;
     height: 50px;
     width: 100%;
@@ -150,6 +150,9 @@ a, a:link, a:visited {
     margin-top: 2%;
 }
 
+#controls {
+    background: black;ß
+}
 #prev, #next {
     position: absolute;
     height: 100%;

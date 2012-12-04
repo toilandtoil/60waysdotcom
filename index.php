@@ -23,11 +23,9 @@
     <link rel="stylesheet" href="./css/large.css" media="screen and (min-width: 1151px)">
 </head>
 <body>
-<?php include 'php/header.php'; ?>
+<?php include 'php/controls.php'; ?>
 
 <?php include 'php/60ways_book_slideshow.php'; ?>
-<a href="#" id="prev" class="big" onClick="slider60ways.prev();return false;">  </a>
-<a href="#" id="next" class="big" onClick="slider60ways.next();return false;">  </a>
 
 <div class="wrapper">
     <div id="slider60ways">
