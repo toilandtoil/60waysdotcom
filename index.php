@@ -1,8 +1,12 @@
+
+
 <?php session_start();
 // have to have sesson values from the app startup to be able to path to user related stuff
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
+<!--Most code and all content © michael buckley. The rest of the actually good code was begged, borrowed or stolen from folks much smarter than I. And accredited where applicable. --Michael J. Buckley 2012 -->
 <head>
     <title>60 Ways To Leave Your Mother (Alone)</title>
     <meta name="viewport" content="width=device-width">
@@ -23,20 +27,22 @@
     <link rel="stylesheet" href="./css/large.css" media="screen and (min-width: 1151px)">
 </head>
 <body>
-<?php include 'php/controls.php'; ?>
 
 <?php include 'php/60ways_book_slideshow.php'; ?>
 
 <div class="wrapper">
+    <?php include 'php/controls.php'; ?>
+
     <div id="slider60ways">
+
         <ul>
             <?=$products
             ?>
         </ul>
     </div>
 </div>
-
 <?php include 'php/footer.php'; ?>
+
 </body>
 
 <script type="text/javascript">
