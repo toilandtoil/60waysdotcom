@@ -30,7 +30,8 @@
 
 <div class="wrapper">
     <?php include 'php/controls.php'; ?>
-
+    <div class="shading_left"></div>
+    <div class="shading_right"></div>
     <div id="slider60ways">
 
         <ul>
