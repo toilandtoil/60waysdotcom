@@ -1,5 +1,3 @@
-
-
 <?php session_start();
 // have to have sesson values from the app startup to be able to path to user related stuff
 ?>
