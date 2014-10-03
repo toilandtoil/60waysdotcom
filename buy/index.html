@@ -20,11 +20,6 @@
     <script type="text/javascript" src="http://use.typekit.com/fti4bos.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-    <!--adding shopping cart-->
-
-	<script type="text/javascript" src="simplecart/simpleCart.js"></script>
-
-	<script type="text/javascript">simpleCart.email = "michael@60ways.com";</script>
 
     <!-- Asynchronous google analytics; this is the official snippet.
      Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.-->
@@ -101,25 +96,11 @@
         </div>
 
 		<div class="slot-9 mod mod-buy">
-			<h2><b>Buy it</b></h2>
-			<p>Paypal powered.</p>
-			<div class="simpleCart_shelfItem">
-                <div class="logo">
-                    <span class="item_name">hardcover book</span>
-                </div>
-                <span class="item_price">$12.99</span>
-
-                <p>+shipping</p>
-
-			  <!--<input class="item_quantity" value="1" type="text">-->
-			  <a href="javascript:;" class="item_add">Add to Cart</a>
-			</div>
-			You have <span class="simpleCart_quantity"></span> items in your Cart.<br>
-			Cart total: <div class="simpleCart_total"></div>
-			<a href="javascript:;" class="simpleCart_checkout">Checkout</a>
-
-			<a href="javascript:;" class="simpleCart_empty">Empty</a>
-		</div>
+			<h2><b>Buy it on Amazon!</b></h2>
+            <form action="http://www.amazon.com/dp/0615394787">
+                <input type="submit" value="$12.99" class="btn">
+            </form>
+        </div>
 	</div>
 	<hr />
 
