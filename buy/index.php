@@ -1,3 +1,15 @@
+<?php
+/* Redirect browser */
+header("Location: http://toilandtoil.com");
+
+/* Make sure that code below does not get executed when we redirect. */
+exit;
+?>
+
+<?php session_start();
+// have to have sesson values from the app startup to be able to path to user related stuff
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
