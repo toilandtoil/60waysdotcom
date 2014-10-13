@@ -1,6 +1,6 @@
 <?php
 /* Redirect browser */
-header("Location: http://60ways.com/buy");
+header("Location: http://toilandtoil.com");
 
 /* Make sure that code below does not get executed when we redirect. */
 exit;
